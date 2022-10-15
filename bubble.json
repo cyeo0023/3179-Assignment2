@@ -4,7 +4,7 @@
     "height": 450,
     "title":"Coronavirus Tests Conducted By Country At May 2020",
     "data":{
-        "url": "https://raw.githubusercontent.com/cyeo0023/3179/main/Assignment%202/CovidTestCountryAtJune.csv"
+        "url": "https://raw.githubusercontent.com/cyeo0023/3179-Assignment2/main/CovidTestCountryAtJune.csv"
     },
     "params":[
         {
